@@ -2,3 +2,4 @@ test_git1
 test_git2
 test_branch
 test_master__
+merge
